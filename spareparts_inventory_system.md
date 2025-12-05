@@ -146,11 +146,6 @@ The main goal is to streamline spare parts management, track inventory, handle s
 
 ---
 
-## 📄 License
-Open for educational purposes.
-
----
-
 ## 👩‍💻 Author
 **Rutuja Pravin Gholap**
 
